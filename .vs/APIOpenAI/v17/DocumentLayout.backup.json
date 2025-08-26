@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joevitor\\Projects\\APIOpenAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7228D6AB-7355-48B7-9189-57AF388C20B8}|APIOpenAI\\APIOpenAI.csproj|c:\\users\\joevitor\\projects\\apiopenai\\apiopenai\\apiopenai.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7228D6AB-7355-48B7-9189-57AF388C20B8}|APIOpenAI\\APIOpenAI.csproj|solutionrelative:apiopenai\\apiopenai.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7228D6AB-7355-48B7-9189-57AF388C20B8}|APIOpenAI\\APIOpenAI.csproj|c:\\users\\joevitor\\projects\\apiopenai\\apiopenai\\entities\\thread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7228D6AB-7355-48B7-9189-57AF388C20B8}|APIOpenAI\\APIOpenAI.csproj|solutionrelative:apiopenai\\entities\\thread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7228D6AB-7355-48B7-9189-57AF388C20B8}|APIOpenAI\\APIOpenAI.csproj|c:\\users\\joevitor\\projects\\apiopenai\\apiopenai\\dto\\threadcreaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7228D6AB-7355-48B7-9189-57AF388C20B8}|APIOpenAI\\APIOpenAI.csproj|solutionrelative:apiopenai\\dto\\threadcreaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7228D6AB-7355-48B7-9189-57AF388C20B8}|APIOpenAI\\APIOpenAI.csproj|c:\\users\\joevitor\\projects\\apiopenai\\apiopenai\\dto\\threadresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7228D6AB-7355-48B7-9189-57AF388C20B8}|APIOpenAI\\APIOpenAI.csproj|solutionrelative:apiopenai\\dto\\threadresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7228D6AB-7355-48B7-9189-57AF388C20B8}|APIOpenAI\\APIOpenAI.csproj|c:\\users\\joevitor\\projects\\apiopenai\\apiopenai\\controllers\\threadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7228D6AB-7355-48B7-9189-57AF388C20B8}|APIOpenAI\\APIOpenAI.csproj|solutionrelative:apiopenai\\controllers\\threadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7228D6AB-7355-48B7-9189-57AF388C20B8}|APIOpenAI\\APIOpenAI.csproj|c:\\users\\joevitor\\projects\\apiopenai\\apiopenai\\dto\\threadmodifyrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7228D6AB-7355-48B7-9189-57AF388C20B8}|APIOpenAI\\APIOpenAI.csproj|solutionrelative:apiopenai\\dto\\threadmodifyrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7228D6AB-7355-48B7-9189-57AF388C20B8}|APIOpenAI\\APIOpenAI.csproj|c:\\users\\joevitor\\projects\\apiopenai\\apiopenai\\entities\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7228D6AB-7355-48B7-9189-57AF388C20B8}|APIOpenAI\\APIOpenAI.csproj|solutionrelative:apiopenai\\entities\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThreadModifyRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Joevitor\\Projects\\APIOpenAI\\APIOpenAI\\DTO\\ThreadModifyRequestDTO.cs",
+              "RelativeDocumentMoniker": "APIOpenAI\\DTO\\ThreadModifyRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Joevitor\\Projects\\APIOpenAI\\APIOpenAI\\DTO\\ThreadModifyRequestDTO.cs",
+              "RelativeToolTip": "APIOpenAI\\DTO\\ThreadModifyRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:54:04.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Thread.cs",
+              "DocumentMoniker": "C:\\Users\\Joevitor\\Projects\\APIOpenAI\\APIOpenAI\\Entities\\Thread.cs",
+              "RelativeDocumentMoniker": "APIOpenAI\\Entities\\Thread.cs",
+              "ToolTip": "C:\\Users\\Joevitor\\Projects\\APIOpenAI\\APIOpenAI\\Entities\\Thread.cs",
+              "RelativeToolTip": "APIOpenAI\\Entities\\Thread.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:12:06.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "APIOpenAI.http",
+              "DocumentMoniker": "C:\\Users\\Joevitor\\Projects\\APIOpenAI\\APIOpenAI\\APIOpenAI.http",
+              "RelativeDocumentMoniker": "APIOpenAI\\APIOpenAI.http",
+              "ToolTip": "C:\\Users\\Joevitor\\Projects\\APIOpenAI\\APIOpenAI\\APIOpenAI.http*",
+              "RelativeToolTip": "APIOpenAI\\APIOpenAI.http*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwDcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-26T00:33:26.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThreadCreateRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Joevitor\\Projects\\APIOpenAI\\APIOpenAI\\DTO\\ThreadCreateRequestDTO.cs",
+              "RelativeDocumentMoniker": "APIOpenAI\\DTO\\ThreadCreateRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Joevitor\\Projects\\APIOpenAI\\APIOpenAI\\DTO\\ThreadCreateRequestDTO.cs",
+              "RelativeToolTip": "APIOpenAI\\DTO\\ThreadCreateRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:21:07.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThreadsController.cs",
+              "DocumentMoniker": "C:\\Users\\Joevitor\\Projects\\APIOpenAI\\APIOpenAI\\Controllers\\ThreadsController.cs",
+              "RelativeDocumentMoniker": "APIOpenAI\\Controllers\\ThreadsController.cs",
+              "ToolTip": "C:\\Users\\Joevitor\\Projects\\APIOpenAI\\APIOpenAI\\Controllers\\ThreadsController.cs",
+              "RelativeToolTip": "APIOpenAI\\Controllers\\ThreadsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:18:26.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Assistant.cs",
+              "DocumentMoniker": "C:\\Users\\Joevitor\\Projects\\APIOpenAI\\APIOpenAI\\Entities\\Assistant.cs",
+              "RelativeDocumentMoniker": "APIOpenAI\\Entities\\Assistant.cs",
+              "ToolTip": "C:\\Users\\Joevitor\\Projects\\APIOpenAI\\APIOpenAI\\Entities\\Assistant.cs",
+              "RelativeToolTip": "APIOpenAI\\Entities\\Assistant.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T00:05:26.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThreadResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Joevitor\\Projects\\APIOpenAI\\APIOpenAI\\DTO\\ThreadResponseDTO.cs",
+              "RelativeDocumentMoniker": "APIOpenAI\\DTO\\ThreadResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Joevitor\\Projects\\APIOpenAI\\APIOpenAI\\DTO\\ThreadResponseDTO.cs",
+              "RelativeToolTip": "APIOpenAI\\DTO\\ThreadResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:44:18.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

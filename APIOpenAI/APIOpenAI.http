@@ -1,0 +1,69 @@
+@APIOpenAI_HostAddress = http://localhost:5296
+
+GET {{APIOpenAI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+POST {{APIOpenAI_HostAddress}}/v1/assistants
+Content-Type: application/json
+Accept: application/json
+
+{
+    "Instructions": "You are a personal math tutor. When asked a question, write and run Python code to answer the question.",
+    "Name": "Math Tutor",
+    "Tools": [{"type": "code_interpreter"}],
+    "Model": "gpt-4o"
+}
+
+###
+GET {{APIOpenAI_HostAddress}}/v1/assistants
+Content-Type: application/json
+Accept: application/json
+
+
+###
+GET {{APIOpenAI_HostAddress}}/v1/assistants/77374ef7-1397-45a6-955b-2025f5834d7c
+Content-Type: application/json
+Accept: application/json
+
+
+### Atualização
+POST {{APIOpenAI_HostAddress}}/v1/assistants/87b5f1fc-9237-46a4-88f9-bc1947d04e21
+Content-Type: application/json
+Accept: application/json
+
+{
+    "description": "BLABLABLABLA"
+}
+
+###
+DELETE {{APIOpenAI_HostAddress}}/v1/assistants/95b750e8-7922-4bc7-8bb6-c82b5a0e8b64
+Accept: application/json
+
+
+### Threads
+POST {{APIOpenAI_HostAddress}}/v1/threads
+Content-Type: application/json
+Accept: application/json
+
+{
+    "metadata": "aasaskasasasasasalkslak",
+    "tool_resources": [{ "type": "ContentTsssseste" }]
+}
+
+### get
+GET {{APIOpenAI_HostAddress}}/v1/threads
+Accept: application/json
+
+### atualizar
+POST {{APIOpenAI_HostAddress}}/v1/threads/7ba28289-837f-46b6-9630-4016730194a8
+Content-Type: application/json
+Accept: application/json
+
+{
+    "metadata": "Testte"
+}
+
+### DELETE
+DELETE {{APIOpenAI_HostAddress}}/v1/threads/7ba28289-837f-46b6-9630-4016730194a8
+Accept: application/json
