@@ -9,6 +9,7 @@ namespace APIOpenAI.Entities
         public DateTime CreatedAt { get; set; }
         public Object Metadata { get; set; }
         public Object ToolResources { get; set; }
+        public List<Message> Messages { get; set; }
 
         public Thread()
         {
@@ -19,6 +20,7 @@ namespace APIOpenAI.Entities
         {
             this.Id = Guid.NewGuid().ToString();
             this.CreatedAt = DateTime.Now;
+            this.Messages = new List<Message>();
         }
 
         public ThreadResponseDTO toResponseDTO()

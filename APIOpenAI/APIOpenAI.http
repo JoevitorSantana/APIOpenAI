@@ -47,8 +47,8 @@ Content-Type: application/json
 Accept: application/json
 
 {
-    "metadata": "aasaskasasasasasalkslak",
-    "tool_resources": [{ "type": "ContentTsssseste" }]
+    "metadata": "Teste 1",
+    "tool_resources": [{ "type": "Teste 1" }]
 }
 
 ### get
@@ -66,4 +66,19 @@ Accept: application/json
 
 ### DELETE
 DELETE {{APIOpenAI_HostAddress}}/v1/threads/7ba28289-837f-46b6-9630-4016730194a8
+Accept: application/json
+
+
+### message
+POST {{APIOpenAI_HostAddress}}/v1/threads/f1392a17-6cb4-4cf4-8e65-2fa824f59789/messages
+Content-Type: application/json
+Accept: application/json
+
+{
+    "role": "user",
+    "content": "JOEVITOR"
+}
+
+### get
+GET {{APIOpenAI_HostAddress}}/v1/threads/f1392a17-6cb4-4cf4-8e65-2fa824f59789/messages
 Accept: application/json

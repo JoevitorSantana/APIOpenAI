@@ -158,6 +158,27 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "APIOpenAI.Controllers.ThreadsController",
+    "Method": "createMessage",
+    "RelativePath": "v1/Threads/{id}/messages",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "messageBody",
+        "Type": "APIOpenAI.DTO.MessageCreateRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "APIOpenAI.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

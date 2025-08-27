@@ -69,3 +69,4 @@ C:\Users\Joevitor\Projects\APIOpenAI\APIOpenAI\obj\Debug\net9.0\refint\APIOpenAI
 C:\Users\Joevitor\Projects\APIOpenAI\APIOpenAI\obj\Debug\net9.0\APIOpenAI.pdb
 C:\Users\Joevitor\Projects\APIOpenAI\APIOpenAI\obj\Debug\net9.0\APIOpenAI.genruntimeconfig.cache
 C:\Users\Joevitor\Projects\APIOpenAI\APIOpenAI\obj\Debug\net9.0\ref\APIOpenAI.dll
+C:\Users\Joevitor\Projects\APIOpenAI\APIOpenAI\obj\Debug\net9.0\APIOpenAI.sourcelink.json
